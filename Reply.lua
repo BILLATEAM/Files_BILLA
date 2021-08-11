@@ -143,6 +143,7 @@ return false
 end
 if text == '🚶💔' then
 TextReply = 'ويـن ࢪايح عمࢪيي تـعـال🥺💘'
+
 send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
